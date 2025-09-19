@@ -2,6 +2,7 @@ require(data.table);require(cluster);require(factoextra);require(evd)
 setwd("C:/Users/canti/OneDrive - University of Leeds/PhD Thesis/Modelling/Aggregation analysis")
 rm(list=ls())
 #
+#
 #### Simulates data 1 variable and 2 modes N=1000X2 ####
 
 n      = 1000 # sample size
